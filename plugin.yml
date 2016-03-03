@@ -1,0 +1,6 @@
+main: com.rident.villagertrade.VillagerTrade
+
+name: VillagerTrade
+version: 1.0
+description: Diables villager trading
+author: Rident

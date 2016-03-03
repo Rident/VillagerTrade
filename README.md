@@ -1,0 +1,3 @@
+# VillagerTrade
+Disables villager trading
+
